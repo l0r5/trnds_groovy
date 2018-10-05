@@ -1,0 +1,9 @@
+{
+  "providers": [
+    {
+      "name": "YouTube",
+      "baseUrl": "https://www.googleapis.com/youtube/v3/videos",
+      "apiKey": "AIzaSyANPAaL_noVEnGPChjpkID-Q_X_qON_lSE"
+    }
+  ]
+}
